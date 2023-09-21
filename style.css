@@ -11,3 +11,9 @@ img{
     height: 300px;
     margin: 30px;
 }
+.cabecalho{
+background-color: brown;
+}
+.logocabecalho{
+    width: 100px;
+}
