@@ -1,0 +1,34 @@
+body{
+    background: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+}
+img{
+    width: 300px;
+    margin-left: 30px;
+}
+.cabecalho{
+background-color: brown;
+}
+.logocabecalho{
+    width: 100px;
+}
+.lista_cabecalho{
+display: flex;
+margin-left: 500px;
+}
+.intem_lista_cabecalho{
+    color: brown;
+    list-style: none;
+text-transform: uppercase;
+font-size: 10px;
+padding: 5;
+}
