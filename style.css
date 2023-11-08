@@ -23,7 +23,7 @@ background-color: rgb(199, 46, 46);
 }
 .lista_cabecalho{
 display: flex;
-margin-left: 500px;
+margin-left: 50px;
 }
 .intem_lista_cabecalho{
     color: rgb(255, 255, 255);
